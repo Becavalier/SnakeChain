@@ -1,6 +1,14 @@
 # SnakeChain
 A tiny implement of blockchain prototype.
 
+
+## How to use?
+
+```python
+python3 start.py
+```
+
+
 ### Block Structure 
 ```
 |-------|-----------|------|---------------------|------|
